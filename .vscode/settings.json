@@ -1,0 +1,23 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "editor.tabSize": 2,
+  "editor.fontSize": 16,
+  "editor.wordWrap": "on",
+  "editor.colorDecorators": false,
+  "workbench.activityBar.visible": true,
+  "editor.minimap.enabled": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.fontLigatures": true,
+  "editor.parameterHints": false,
+  "editor.cursorBlinking": "solid",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "color-highlight.markRuler": false,
+  "workbench.editor.tabCloseButton": "off",
+  "editor.snippetSuggestions": "top",
+  "editor.formatOnSave": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "prettier.eslintIntegration": true
+}
